@@ -1,0 +1,31 @@
+.main {
+  margin-top: 57px;
+  margin-left: 27px;
+  padding-bottom: 125px;
+}
+
+.main h1 {
+  font-weight: 700;
+  font-size: 39.06px;
+  line-height: 47px;
+  letter-spacing: -0.05em;
+}
+
+.facts-list {
+  margin-top: 46px;
+  margin-left: 47px;
+  width: 390px;
+}
+
+.facts-list li {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.facts-list > li::marker {
+  font-size: 1.4rem;
+  color: #61dafb;
+}
